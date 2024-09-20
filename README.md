@@ -9,14 +9,13 @@ The package bank_sys is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install bank_sys
+pip install bank_sysia
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
-file1_name.my_function()
+from bank_sys import bank
 ```
 
 ## Author
